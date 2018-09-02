@@ -1,6 +1,6 @@
 # vim customizations for developing in python
 
-vim version should be higher than 7.3. These customizations are based on these [tips](https://github.com/alegonz/vim4py.git).
+vim version should be higher than 7.3. These customizations are based on these [tips](https://realpython.com/vim-and-python-a-match-made-in-heaven/).
 
 ## Requirements
 
